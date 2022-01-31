@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="ThunderBirdMailExtractor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainfrm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainFrm"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="57"/>
+        <CursorPos Y="83"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\PROGRAMS\DELPHI\Lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="676"/>
+        <CursorPos X="11" Y="696"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\PROGRAMS\DELPHI\Lazarus\fpc\3.0.4\source\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="86"/>
+        <CursorPos X="36" Y="106"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\PROGRAMS\DELPHI\Lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="51"/>
+        <CursorPos X="20" Y="71"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\PROGRAMS\DELPHI\Lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="135"/>
+        <CursorPos X="10" Y="155"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="95" TopLine="69"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="99" TopLine="69"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="97" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="97" Column="38" TopLine="69"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="97" TopLine="69"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position19>
+      <Position20>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position20>
+      <Position21>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position21>
+      <Position22>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="97" TopLine="69"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position23>
+      <Position24>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="94" TopLine="69"/>
+      </Position25>
+      <Position26>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position26>
+      <Position27>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="97" TopLine="69"/>
+      </Position27>
+      <Position28>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="96" TopLine="69"/>
+      </Position28>
+      <Position29>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position29>
+      <Position30>
+        <Filename Value="mainfrm.pas"/>
+        <Caret Line="103" Column="32" TopLine="94"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
